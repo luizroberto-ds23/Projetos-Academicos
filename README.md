@@ -1,2 +1,4 @@
-# Projetos Academicos
- primerio repositório do curso git e github do guanabara
+# Projetos Acadêmicos
+ Primerio repositório do curso git e github do guanabara
+
+Repositório criado durante uma aula ao vivo
