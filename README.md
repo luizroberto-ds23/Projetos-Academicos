@@ -1,5 +1,5 @@
 # Projetos Acadêmicos
- Primerio repositório do curso git e github do guanabara
+Primerio repositório do curso git e github do guanabara
 
 Repositório criado durante uma aula ao vivo
 
